@@ -4,7 +4,7 @@ org-jekyll
 Set up for the combo Emacs Org-mode & Jekyll.
 
 This was forked from
-[from](http://www.gorgnegre.com/linux/using-emacs-orgmode-to-blog-with-jekyll.html)
+[here](http://www.gorgnegre.com/linux/using-emacs-orgmode-to-blog-with-jekyll.html)
 . The original author may have abandoned this as the source repo doesn't have
 the `org-jekyll.el` file referenced in the post.  I copied the file contents
 form the post and made several changes.
